@@ -1,3 +1,3 @@
 <?php
 
-echo "cu da mae!";
+echo "asdasdasdasd!";
